@@ -6,8 +6,8 @@ This project is part of the Google Data Analytics Certificate. The goal is to an
 
 The ultimate objective is to provide marketing leadership with data-driven recommendations for converting casual riders into annual members.
 
-* **Tableau Dashboard:** [View Interactive Dashboard]([YOUR_TABLEAU_PUBLIC_URL_HERE](https://public.tableau.com/views/CyclisticDashboard_17918560364040/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
-* **Presentation Deck:** [Download PDF Presentation](./cyclistic_presentation.pdf)
+* **Tableau Dashboard:** https://public.tableau.com/views/CyclisticDashboard_17918560364040/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+* **Presentation Deck:** https://docs.google.com/presentation/d/1mtERYkvz9uIOdiIAP81W89oejf6vOkf3G-fT9opS6oA/edit?usp=sharing
 
 ## Data & Tools
 * **Data Source:** 12 months of public Divvy trip data.
